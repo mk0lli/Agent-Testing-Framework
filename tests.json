@@ -1,0 +1,12 @@
+[
+  {
+    "id": "test_001",
+    "query": "What is the refund policy?",
+    "target_answer": "Customers may request a refund within 30 days of purchase."
+  },
+  {
+    "id": "test_002",
+    "query": "How long does shipping take?",
+    "target_answer": "Shipping typically takes 3 to 5 business days."
+  }
+]
